@@ -34,3 +34,5 @@ server <- function(input,output)output$plot <- renderPlot({plot(Tesla_S_P500) %>
 
 
 shinyApp(ui = ui, server = server)
+
+https://github.com/shahchintal/CSC275Final.git
